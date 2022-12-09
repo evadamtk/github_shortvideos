@@ -7,6 +7,7 @@ public class GitHub {
 
         // let`s start now
         //this is first version
-        // now this is wriiten from my teammate Adam
+        // now this is written from my teammate Adam
+        //and I have succeeded to pull this text from remote to local
     }
 }
