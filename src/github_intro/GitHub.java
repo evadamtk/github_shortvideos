@@ -7,5 +7,6 @@ public class GitHub {
 
         // let`s start now
         //this is first version
+        // now this is wriiten from my teammate Adam
     }
 }
